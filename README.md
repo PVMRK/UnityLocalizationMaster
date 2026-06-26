@@ -247,6 +247,61 @@ See the LICENSE file for details.
 
 ---
 
+## Antivirus Notice
+
+Some antivirus engines on VirusTotal may report this application as suspicious.
+
+Current VirusTotal scan:
+https://www.virustotal.com/gui/file/ec446fe6fc87c990ed13b811d2eb5ba473bd77034e2af630b4a2ec9553dfd244
+
+### Why does this happen?
+
+This application is developed in Python and distributed as a standalone executable. Some antivirus products use heuristic and AI-based detection methods that may incorrectly classify newly compiled applications as suspicious.
+
+Common reasons include:
+
+- The executable is generated from Python code.
+- The application is packaged into a standalone binary.
+- The file has a low reputation score due to a small user base.
+- Heuristic and machine-learning engines sometimes produce false positives.
+
+### Transparency
+
+This project is fully open source.
+
+You can:
+
+- Review the complete source code.
+- Build the application yourself from source.
+- Compare the generated executable with the published code.
+- Analyze the binary using your preferred security tools.
+
+### What the application does
+
+The application:
+
+- Reads and processes Unity Localization XML files.
+- Translates localization entries.
+- Saves translated XML files.
+- Stores local configuration files.
+
+The application does **not**:
+
+- Install services.
+- Modify system files.
+- Create persistence mechanisms.
+- Inject code into other processes.
+- Collect personal information.
+- Download or execute external payloads.
+
+### Recommendation
+
+If you are concerned about security, please build the project directly from source and verify the resulting executable yourself.
+
+Open-source transparency is the best way to verify the integrity and behavior of the application.
+
+---
+
 # Thank You
 
 Thank you for using Unity Localization Master.
@@ -258,5 +313,7 @@ If the project helped you and you'd like to support future development, you can 
 👉 👉 **[Support the project](https://www.donationalerts.com/r/pvmrk)**
 
 Your support is greatly appreciated and helps maintain and improve the project.
+
+
 
 Happy developing and good luck with your game projects!
