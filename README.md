@@ -1,5 +1,7 @@
 # Unity Localization Master
 
+![Screenshot](https://imgur.com/a/7BTMJPq)
+
 A desktop tool for translating and managing Unity Localization XML files with an intuitive graphical interface.
 
 Unity Localization Master helps developers and translators automate the localization workflow by translating XML localization entries, editing translations, and exporting updated localization files without manually copying text between tools.
