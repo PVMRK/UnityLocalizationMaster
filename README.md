@@ -317,3 +317,15 @@ Your support is greatly appreciated and helps maintain and improve the project.
 
 
 Happy developing and good luck with your game projects!
+
+
+
+
+---
+# Tags
+
+Unity Localization Tool
+Unity Localization XML Translator
+Unity Game Translation Tool
+Unity Localization Automation
+Unity XML Localization Manager
