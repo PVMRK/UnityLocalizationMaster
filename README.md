@@ -41,7 +41,7 @@ Unity Localization Master helps by:
 ## Option 1: Download Prebuilt Release (Recommended)
 
 👉[INSTALL](https://github.com/PVMRK/UnityLocalizationMaster/releases/download/v1.0.0/unity_localization_master.exe)
-Or you can install the exe from the release section.
+Or you can install exe from release section.
 
 No Python installation is required.
 
