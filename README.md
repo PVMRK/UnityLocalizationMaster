@@ -40,9 +40,8 @@ Unity Localization Master helps by:
 
 ## Option 1: Download Prebuilt Release (Recommended)
 
-1. Open the Releases page.
-2. Download the latest executable.
-3. Run the application.
+👉[INSTALL](https://github.com/PVMRK/UnityLocalizationMaster/releases/download/v1.0.0/unity_localization_master.exe)
+Or you can install the exe from the release section.
 
 No Python installation is required.
 
