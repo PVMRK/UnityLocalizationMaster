@@ -1,6 +1,6 @@
 # Unity Localization Master
 
-![Screenshot](https://imgur.com/a/7BTMJPq)
+![Screenshot](https://i.imgur.com/IIe79yQ.png)
 
 A desktop tool for translating and managing Unity Localization XML files with an intuitive graphical interface.
 
